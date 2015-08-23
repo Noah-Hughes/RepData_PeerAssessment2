@@ -1,0 +1,9 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId:
+        https://api.rpubs.com/api/v1/document/105101/b3bf4307301e41e3807efdc5d28af7f8
+bundleId:
+        https://api.rpubs.com/api/v1/document/105101/b3bf4307301e41e3807efdc5d28af7f8
+url: http://rpubs.com/noah-hughes/105101
+when: 1440370844.7694
